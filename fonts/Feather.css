@@ -263,6 +263,7 @@
 .icon-thumbs-up:before,
 .icon-toggle-left:before,
 .icon-toggle-right:before,
+.icon-tool:before,
 .icon-trash:before,
 .icon-trash-2:before,
 .icon-trello:before,
@@ -271,6 +272,7 @@
 .icon-triangle:before,
 .icon-truck:before,
 .icon-tv:before,
+.icon-twitch:before,
 .icon-twitter:before,
 .icon-type:before,
 .icon-umbrella:before,
@@ -557,44 +559,46 @@
 .icon-thumbs-up:before { content: "\f1ec"; }
 .icon-toggle-left:before { content: "\f1ed"; }
 .icon-toggle-right:before { content: "\f1ee"; }
-.icon-trash:before { content: "\f1ef"; }
-.icon-trash-2:before { content: "\f1f0"; }
-.icon-trello:before { content: "\f1f1"; }
-.icon-trending-down:before { content: "\f1f2"; }
-.icon-trending-up:before { content: "\f1f3"; }
-.icon-triangle:before { content: "\f1f4"; }
-.icon-truck:before { content: "\f1f5"; }
-.icon-tv:before { content: "\f1f6"; }
-.icon-twitter:before { content: "\f1f7"; }
-.icon-type:before { content: "\f1f8"; }
-.icon-umbrella:before { content: "\f1f9"; }
-.icon-underline:before { content: "\f1fa"; }
-.icon-unlock:before { content: "\f1fb"; }
-.icon-upload:before { content: "\f1fc"; }
-.icon-upload-cloud:before { content: "\f1fd"; }
-.icon-user:before { content: "\f1fe"; }
-.icon-user-check:before { content: "\f1ff"; }
-.icon-user-minus:before { content: "\f200"; }
-.icon-user-plus:before { content: "\f201"; }
-.icon-user-x:before { content: "\f202"; }
-.icon-users:before { content: "\f203"; }
-.icon-video:before { content: "\f204"; }
-.icon-video-off:before { content: "\f205"; }
-.icon-voicemail:before { content: "\f206"; }
-.icon-volume:before { content: "\f207"; }
-.icon-volume-1:before { content: "\f208"; }
-.icon-volume-2:before { content: "\f209"; }
-.icon-volume-x:before { content: "\f20a"; }
-.icon-watch:before { content: "\f20b"; }
-.icon-wifi:before { content: "\f20c"; }
-.icon-wifi-off:before { content: "\f20d"; }
-.icon-wind:before { content: "\f20e"; }
-.icon-x:before { content: "\f20f"; }
-.icon-x-circle:before { content: "\f210"; }
-.icon-x-octagon:before { content: "\f211"; }
-.icon-x-square:before { content: "\f212"; }
-.icon-youtube:before { content: "\f213"; }
-.icon-zap:before { content: "\f214"; }
-.icon-zap-off:before { content: "\f215"; }
-.icon-zoom-in:before { content: "\f216"; }
-.icon-zoom-out:before { content: "\f217"; }
+.icon-tool:before { content: "\f1ef"; }
+.icon-trash:before { content: "\f1f0"; }
+.icon-trash-2:before { content: "\f1f1"; }
+.icon-trello:before { content: "\f1f2"; }
+.icon-trending-down:before { content: "\f1f3"; }
+.icon-trending-up:before { content: "\f1f4"; }
+.icon-triangle:before { content: "\f1f5"; }
+.icon-truck:before { content: "\f1f6"; }
+.icon-tv:before { content: "\f1f7"; }
+.icon-twitch:before { content: "\f1f8"; }
+.icon-twitter:before { content: "\f1f9"; }
+.icon-type:before { content: "\f1fa"; }
+.icon-umbrella:before { content: "\f1fb"; }
+.icon-underline:before { content: "\f1fc"; }
+.icon-unlock:before { content: "\f1fd"; }
+.icon-upload:before { content: "\f1fe"; }
+.icon-upload-cloud:before { content: "\f1ff"; }
+.icon-user:before { content: "\f200"; }
+.icon-user-check:before { content: "\f201"; }
+.icon-user-minus:before { content: "\f202"; }
+.icon-user-plus:before { content: "\f203"; }
+.icon-user-x:before { content: "\f204"; }
+.icon-users:before { content: "\f205"; }
+.icon-video:before { content: "\f206"; }
+.icon-video-off:before { content: "\f207"; }
+.icon-voicemail:before { content: "\f208"; }
+.icon-volume:before { content: "\f209"; }
+.icon-volume-1:before { content: "\f20a"; }
+.icon-volume-2:before { content: "\f20b"; }
+.icon-volume-x:before { content: "\f20c"; }
+.icon-watch:before { content: "\f20d"; }
+.icon-wifi:before { content: "\f20e"; }
+.icon-wifi-off:before { content: "\f20f"; }
+.icon-wind:before { content: "\f210"; }
+.icon-x:before { content: "\f211"; }
+.icon-x-circle:before { content: "\f212"; }
+.icon-x-octagon:before { content: "\f213"; }
+.icon-x-square:before { content: "\f214"; }
+.icon-youtube:before { content: "\f215"; }
+.icon-zap:before { content: "\f216"; }
+.icon-zap-off:before { content: "\f217"; }
+.icon-zoom-in:before { content: "\f218"; }
+.icon-zoom-out:before { content: "\f219"; }
